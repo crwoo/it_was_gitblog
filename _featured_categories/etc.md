@@ -1,10 +1,10 @@
 ---
 layout: list
-title: etc
-slug: etc
+title: ML
+slug: ml
 menu: true
 submenu: false
-order: 5
+order: 4
 description: >
-  기타 공부
+  ML/Math/Data
 ---
