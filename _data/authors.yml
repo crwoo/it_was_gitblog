@@ -9,7 +9,8 @@ vvs:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   # 자기 소개
   about:             |
-    데이터를 배우고 있는 평범한 직장인입니다.
+    깃헙 블로그 테스트용 코드입니다(사용 X )
+    https://velog.io/@crwoo_velog
 
 
   # This photo will be used in the about section
